@@ -1,0 +1,39 @@
+html {
+    background-image: url("../images/background-image2.gif");
+}
+
+body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #8A817C;
+    border: 5px solid #3E3335;
+}
+
+.page-home {
+    display: flex;
+}
+
+.header {
+    text-align: center;
+    border: 5px solid #6E0D25;
+    color: #d6c7b7;
+}
+
+.menu {
+    border: 1px solid black;
+}
+
+.menu table {
+    text-align: center;
+    border-collapse: collapse;
+}
+
+.menu td {
+    background-color: blueviolet;
+    margin: 0;
+    padding: 0;
+}
+
+.menu th {
+    background-color: red;
+}
